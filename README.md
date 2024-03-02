@@ -2,8 +2,11 @@
 
 Este projeto é um estudo que manipula arquivos do tipo DOCX do Microsoft Word 
 
+
 ___
 
+
+* Utilizei um projeto Web API com .NET 8
 * Lembrando que você deve criar dois arquivos Word, garantir acesso ao caminho do arquivo de leitura e gravação do diretório e que o arquivo que irá está no diretório pathDocDefault deverá conter a palavra ou termo que irá ser substituido.
 
 
