@@ -7,7 +7,14 @@ ___
 
 
 * Utilizei um projeto Web API com .NET 8
-* Lembrando que você deve criar dois arquivos Word, garantir acesso ao caminho do arquivo de leitura e gravação do diretório e que o arquivo que irá está no diretório pathDocDefault deverá conter a palavra ou termo que irá ser substituido.
+* Utilizei a biblioteca free da própria Microsoft OpenXML
+* Projeto contém o Swagger para facilitar o envio de requisições
+* Lembrando que você deve criar dois arquivos Word em um determinado diretório local ou de rede
+* Garantir permissão de leitura e escrita no diretório
+* Este arquivo no diretório pathDocDefault deverá conter a palavra ou termo que irá ser substituido.
+
+
+___
 
 
 O primeiro método substitui palavras que estão no arquivo, gerando assim um novo arquivo com a apalavra substituída
